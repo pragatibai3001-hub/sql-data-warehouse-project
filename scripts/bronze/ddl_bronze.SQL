@@ -1,4 +1,4 @@
-## Creating Stored Procedures
+## Creating tables for 3 years and truncating and inserting data from CSV file and Creating Stored Procedures
 
 CREATE TABLE bronze.crm_cust_info(
 	cst_id INT,
